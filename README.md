@@ -1,1 +1,0 @@
-# snake-game-react-ts
